@@ -1,0 +1,16 @@
+{
+    "files": [
+        "qt.conf",
+        "MainMenuPage.qml",
+        "MenuButton.qml",
+        "Onoffbutton.qml",
+        "RosaModule.qml",
+        "assets/back.png",
+        "assets/login.png",
+        "assets/power-on.png",
+        "assets/previous.png",
+        "assets/time.png",
+        "main.py",
+        "main.qml"
+    ]
+}
